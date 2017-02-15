@@ -36,7 +36,7 @@ public class AppTest
     {
     	
     	System.out.println("Hello 1 in checksanity1");
-        assertTrue( true );
+        assertTrue( false );
       
     }
     public void test2()
