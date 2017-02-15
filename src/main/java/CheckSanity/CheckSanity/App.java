@@ -1,11 +1,10 @@
 package CheckSanity.CheckSanity;
-import junit.framework.Test;
-import junit.framework.TestCase;
+
 /**
  * Hello world!
  *
  */
-public class App extends TestCase
+public class App 
 {
     public static void main( String[] args )
     {
