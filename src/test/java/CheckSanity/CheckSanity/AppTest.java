@@ -1,4 +1,4 @@
-package CheckSanity1.CheckSanity1;
+package CheckSanity.CheckSanity;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest1 
+public class AppTest 
     extends TestCase
 {
 	 
@@ -16,7 +16,7 @@ public class AppTest1
      *
      * @param testName name of the test case
      */
-    public AppTest1( String testName )
+    public AppTest( String testName )
     {
         super( testName );
     }
@@ -26,7 +26,7 @@ public class AppTest1
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest1.class );
+        return new TestSuite( AppTest.class );
     }
 
     /**

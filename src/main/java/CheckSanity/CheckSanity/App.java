@@ -1,10 +1,10 @@
-package CheckSanity1.CheckSanity1;
+package CheckSanity.CheckSanity;
 
 /**
  * Hello world!
  *
  */
-public class App1 
+public class App 
 {
     public static void main( String[] args )
     {
