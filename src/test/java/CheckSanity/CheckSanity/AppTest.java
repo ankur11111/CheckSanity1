@@ -10,6 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+	 
     /**
      * Create the test case
      *
@@ -33,7 +34,15 @@ public class AppTest
      */
     public void testApp()
     {
-    	  System.out.println("Hello TestApp");
+    	
+    	System.out.println("Hello TestApp");
+        assertTrue( true );
+      
+    }
+    public void test2()
+    {
+    	
+    	System.out.println("Hello test2");
         assertTrue( true );
       
     }
